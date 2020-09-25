@@ -3,6 +3,7 @@ Web Scraping Data Visualizations
 PURPOSE
 Scrapes various websites for data related to the Mission to Mars and display information in a single HTML page. 
 
+
 PROJECT 
 
 1 - Create a repository in Git Hub.
