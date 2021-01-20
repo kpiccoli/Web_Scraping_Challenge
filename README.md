@@ -3,7 +3,7 @@
 ![mission_to_mars](Images/mission_to_mars.png)
 
 ### Purpose
-Scrape the NASA website and other websites to collect the last information about Mars. The purpose of this project is to build a web application that scrapes websites for text and images, and displays the information on a single HTML page. 
+Scrape NASA and other websites to collect the last information about Mars. The purpose of this project is to build a web application that scrapes websites for text and images, and displays the information on a single HTML page. 
 
 ### Tools
 - Jupiter Notebook
